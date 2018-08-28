@@ -1,1 +1,3 @@
 this is cailiang , this is my new txt file ,welcome to my spacecell.new update
+
+现在是8月，这是测试中文显示的内容
